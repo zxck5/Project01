@@ -1,2 +1,4 @@
-# Chess Game.
-# Check, Checkmate will be uploaded soon.
+# My first spring boot project.
+
+Gradle,
+JPA
